@@ -1,1 +1,2 @@
 # A_Flask_based_Online_Marketplace_Platform
+This application is a comprehensive web application built on Flask, which offers a platform for users to list, buy, or sell items. With integrated user authentication and a robust database backend, the platform is designed for scalability and ease of use. Whether you're an individual looking to sell a single item or a business aiming to establish an online presence, FlaskMarket provides the tools necessary to engage in digital commerce effectively.
